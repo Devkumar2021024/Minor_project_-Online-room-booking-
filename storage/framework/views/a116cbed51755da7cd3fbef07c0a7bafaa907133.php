@@ -1,0 +1,2 @@
+<script src="<?php echo e(asset('dist/js/scripts.js')); ?>"></script>
+<script src="<?php echo e(asset('dist/js/custom.js')); ?>"></script><?php /**PATH D:\xampp\htdocs\online_hotel_booking\resources\views/admin/layout/scripts_footer.blade.php ENDPATH**/ ?>
